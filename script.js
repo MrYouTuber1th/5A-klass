@@ -21,3 +21,4 @@ document.addEventListener('DOMContentLoaded', function() {
         document.querySelector('.achievements h2').innerText = 'Наші досягнення';
         document.querySelector('.achievements ul').innerHTML = '<li>Досягнення 1</li><li>Досягнення 2</li>';
     });
+});
